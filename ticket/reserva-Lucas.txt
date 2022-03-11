@@ -1,0 +1,7 @@
+Nombre	Lucas
+Apellido	Sanchez
+Fecha de reserva	16/3/22
+Sala de reserva	Sala Python
+Hora de reserva	10:00
+Duración de la reserva	02:00 horas
+
